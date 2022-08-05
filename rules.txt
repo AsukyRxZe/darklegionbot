@@ -1,0 +1,33 @@
+-Beim betreten dieses Discord-Servers akzeptierst du das Regelwerk und übernimmst die alleinige Verantwortung für dein Handeln.    
+-Wir bitten jeden User sich mit dem gleichen Nickname im Discord wie Ingame einzuloggen. Dies dient der Übersichtlichkeit.         
+-Sogenannte Fake Namen sind verboten.                                                                                              
+-Nicknamen dürfen generell nicht beleidigende, respektlose oder Ähnliche Inhalte haben.                                            
+-Nicknamen, die unlesbar bzw. unaussprechbar sind, wie zum Beispiel: "adhaksdhka" sind nicht erlaubt.                              
+-User mit unzulässigen Nicknames werden permanent vom Server gebannt!                                                              
+-Auffällige, fette Sonderzeichen im Namen, wie: "█▓▒░░...░░▒▓█" sind verboten.                                                     
+-Sonderzeichen, mit denen man sich in der Channelhierarchie höher stellt sind verboten.                                            
+-User, die Gespräche absichtlich stören und auch nach mehrmaligen Ermahnen keine Einsicht zeigen, müssen mit einem Channel- oder Server Kick rechnen. In uneinsichtigen Fällen werden temporäre Banns verhängt, bis hin zum permanenten Ban.                        
+-Musikbots sind in geschlossenen Channels mit PASSWORT erlaubt. In Channels die jeder joinen kann, sind sie verboten und werden von einem Operator, etc. gekickt. Außerdem habt ihr die Pflicht, wenn ihr solch einen Bot betreibt, diesen bitte auch entsprechend anzupassen was die Lautstärke angeht. Solltet ihr das nicht machen gibts einen Ban für Spieler und Bot! Des Weiteren sind in Passwortgeschützten Channels maximal zwei Musikbots erlaubt. Alle weiteren können von einem Operator, etc. gekickt werden. Musikbots sind deutlich kennbar zu machen. Des weiteren sind Bots verboten, die einfach nur Channel Admin haben. Bots dürfen kein Channel Admin haben auch wenn sie eine Funktion haben.                                                                             
+-Es gilt die allgemeine Netiquette. Wer keinen vernünftigen Umgangston beherrscht und andere beleidigt, ob nun direkt oder subtil, muss mit den Konsequenzen leben.
+-Sexistische, rassischte, nazistische Äußerung, anstößige Geräusche, etc. sind verboten!
+-Obszöne Geräusche, Rauschen, etc. eures Headsets sind zu unterlassen! Es wird auch gebeten das Mikro so einzustellen, dass die Atmung nicht dauernd zu hören ist.
+-Channel-Hopping auf unserem Server ist untersagt! Wenn dieser Fall nach einer mündlichen Verwarnung nochmal auftreten sollte, wird dieser mit einem Bann bestraft.
+-Das Betteln um Server-Rechte wie Member, Operator oder Admin ist hier nicht erwünscht. Außerdem ist das Andeuten von Rechten hier verboten und wird mit einem kick (bei weiteren vergehen mit einem Bann) bestraft.
+-Private Missverständnisse und Streitigkeiten sind auch privat zu behalten und gehören nicht auf den DC.
+-Dies bedeutet, dass solche Fälle auch nicht im Support geklärt werden!
+-Alle ab dem Rang Operator haben auf dem Server volles Weisungsrecht. Wer den Anweisungen der Operatoren (oder höher) nicht folgt wird verwarnt und im Ernstfall gekickt. Sollte sich dies häufen, ist ein Bann zu erwarten.
+-Jeder Admin kann unangemeldet in einen geschützten Channel wechseln oder einzelne User verschieben, um ein Gespräch zu kontrollieren.
+-Jeder Angriff gegen diesen Server ist strafbar. Die IP-Adressen werden geloggt und im Falle eines Angriffsversuch, welcher Art auch immer, zur strafrechtlichen Anzeige gebracht. Dies betrifft vor allem das Flooding mit diversen Programmen und DOS-Attacken.
+-Das Mitschneiden von Discord Gesprächen ist ohne die ausdrückliche Erlaubnis der Aufgenommenen nur dann zulässig, wenn ein Beweisstück angefertigt wird, welches ausschließlich nur an das Server-Team von LifeGaming sowie den Aufgenommenen weiter gegeben werden darf, sofern eine regelwidrige Handlung sichtbar ist. Mit Erlaubnis des Management ist das Aufnehmen und das Hochladen von den Gesprächen erlaubt.
+-Jegliche Art aktiver Werbung, für eigene Zwecke, ist verboten! Unter Werbung verstehen wir Audio-Werbung, Voice-Werbung, Links und Text-Mitteilungen an den Channel oder einzelne User, sowie Dateien mit Werbeinhalten, welche in den Channels hochgeladen werden. Falls ihr Werbung für etwas machen möchtet, müsst ihr das mit dem hohen Management besprechen!
+-Niemand wird grundlos gebannt oder gekickt! ALLE Admins haben die Berechtigung dazu Leute zu kicken und zu bannen, wenn sie darin eine Notwendigkeit sehen. 
+-Private Daten wie Telefonnummern, Adressen, Passwörter usw. dürfen nicht öffentlich ausgetauscht werden. Ein Server-Admin oder vom Team eingesetzter Channel-Admin wird niemals nach deinem Passwort oder Ähnlichem fragen.
+-Es ist nicht gestattet, Pornografische- und/oder Copyright-geschützes Material (Filme, Musik usw.) in einem Channel allen anderen zur Verfügung zu stellen.
+-Banns werden nur vom Team vergeben. Die Dauer eines Bannes (für verschiedene Vergehen) wird vom Team entschieden und kann nicht ohne weiteres geändert werden. Jeder Bann muss begründet sein!
+-Beschwerden werden immer gern vom Admin-Team angenommen (auch über das Team). Beschwerden werden NICHT bestraft. Sollten die Beschwerden nicht ernst gemeint oder beleidigend wirken, muss mit einer Strafe rechnen!
+-Jegliche Art von Rassismus wird hier mit einem permanenten Bann geahndet!
+-Alle Avatare die rassistische, gewaltverherrlichende, aggressive, beleidigende, sexistischen/Pornografische- und/oder Copyright-Geschützte Materialien andeuten, werden von einem Admin gelöscht! Bei mehrmaligen Ermahnungen werden auch Banns vergeben.
+-Wer sich gegen die Serverleitung auflehnt, muss mit den Konsequenzen leben.
+-Das durchgehende senden von Textnachrichten oder sonstigen Benachrichtigungen kann zu einem permanenten Bann führen.
+-Wer auf unserem Discord-Server "trollt", sei es in Public Channels oder im Support, muss mit einem permanenten Bann rechnen!
+-Jegliche Arten von Modifikationen, welche die Stimme verändern können, sind auf unserem Discord-Server nicht gestattet.
